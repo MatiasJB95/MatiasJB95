@@ -8,6 +8,7 @@
 - Spring Boot
 - PHP
 - Laravel
+- Golang
 
 ## 🛠 Habilidades Front-End
 - JavaScript
