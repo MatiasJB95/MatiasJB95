@@ -1,7 +1,7 @@
 # Matías Badano
 🚀 Desarrollador Java/PHP Back-End Jr
 
-¡Hola! Soy Matías Badano, un apasionado de la programación y me he enfocado en el desarrollo Back-End en Java. Aunque no cuento con experiencia laboral específica, he adquirido conocimientos sólidos en el desarrollo de aplicaciones web y me considero un aprendiz rápido y autodidacta. Estoy buscando una oportunidad para demostrar mis habilidades y contribuir en un entorno de desarrollo. Actualmente, estoy buscando una oportunidad laboral como desarrollador Jr Back-End para financiar mi carrera en Sistemas.
+¡Hola! Soy Matías Badano, un apasionado de la programación y me he enfocado en el desarrollo Back-End en Java. He adquirido conocimientos sólidos en el desarrollo de aplicaciones web y me considero un aprendiz rápido y autodidacta. Estoy buscando una oportunidad para demostrar mis habilidades y contribuir en un entorno de desarrollo. Actualmente, estoy buscando una oportunidad laboral como desarrollador Jr Back-End para financiar mi carrera en Sistemas.
 
 ## 🛠 Habilidades Back-End
 - Java
