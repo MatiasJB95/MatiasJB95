@@ -6,8 +6,6 @@
 ## 🛠 Habilidades Back-End
 - Java
 - Spring Boot
-- PHP
-- Laravel
 - Golang
 
 ## 🛠 Habilidades Front-End
