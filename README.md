@@ -1,5 +1,5 @@
 # Matías Badano
-🚀 Desarrollador Java Back-End Jr
+🚀 Desarrollador Java Back-End
 
 ¡Hola! Soy Matías Badano, un apasionado de la programación y me he enfocado en el desarrollo Back-End en Java. He adquirido conocimientos sólidos en el desarrollo de aplicaciones web y me considero un aprendiz rápido y autodidacta. Estoy buscando una oportunidad para demostrar mis habilidades y contribuir en un entorno de desarrollo. Actualmente, estoy buscando una oportunidad laboral como desarrollador Jr Back-End para financiar mi carrera en Sistemas.
 
@@ -17,7 +17,8 @@
 ## 🔗 Enlaces Back-End
 - [ChallengeBackEndQE (Back de sitio Universitario) - Spring Boot](https://github.com/MatiasJB95/ChallengeBackEndQE)
 - [Tienda de Libros API REST en Java con Spring Boot](https://github.com/MatiasJB95/libreriaLour)
-- [API en Java utilizando Spring Boot para un foro de discusión llamado "Foro Alura"](https://github.com/MatiasJB95/ForoAlura)
+- [API en Java utilizando Spring Boot para un foro de discusión llamado "Foro Alura"](
+https://github.com/MatiasJB95/ForoAlura)
 - [Sistema de reservas para un hotel desarrollado en Java.](https://github.com/MatiasJB95/challenge-one-alura-hotel-latam)
 
 ## 🔗 Enlaces Front-End
