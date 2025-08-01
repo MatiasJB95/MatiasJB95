@@ -8,12 +8,6 @@
 - Spring Boot
 - Golang
 
-## 🛠 Habilidades Front-End
-- JavaScript
-- React
-- HTML
-- CSS
-
 ## 🔗 Enlaces Back-End
 - [No Country (Simulacion laboral) - Rentify con Spring Boot](https://github.com/No-Country-simulation/S18-23-n-java-react)
 - [No Country (Simulacion laboral) - Recetapp con Spring Boot](https://github.com/No-Country-simulation/C20-48-t-python-react)
