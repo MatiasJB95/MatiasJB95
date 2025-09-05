@@ -1,31 +1,16 @@
 # Matías Badano
 🚀 Desarrollador Java Back-End
 
-¡Hola! Soy Matías Badano, un apasionado de la programación y me he enfocado en el desarrollo Back-End en Java. He adquirido conocimientos sólidos en el desarrollo de aplicaciones web y me considero un aprendiz rápido y autodidacta. Actualmente, estoy buscando una oportunidad laboral como desarrollador Jr Back-End para financiar mi carrera en Sistemas.
+Hola, soy Matías Badano, un apasionado de la programación con enfoque en el desarrollo Back-End en Java. He adquirido sólidos conocimientos en el desarrollo de aplicaciones web y me considero una persona autodidacta y de rápido aprendizaje.
+
+Actualmente curso la Tecnicatura Universitaria en Programación en la UTN y me desempeño como Full Stack Automation en No Country, donde continúo fortaleciendo mis habilidades técnicas y mi experiencia en proyectos colaborativos.
 
 ## 🛠 Habilidades Back-End
 - Java
 - Spring Boot
 - Golang
 
-## 🔗 Enlaces Back-End
-- [No Country (Simulacion laboral) - Rentify con Spring Boot](https://github.com/No-Country-simulation/S18-23-n-java-react)
-- [No Country (Simulacion laboral) - Recetapp con Spring Boot](https://github.com/No-Country-simulation/C20-48-t-python-react)
-- [ChallengeBackEndQE (Back de sitio Universitario) - Spring Boot](https://github.com/MatiasJB95/ChallengeBackEndQE)
-- [Tienda de Libros API REST en Java con Spring Boot](https://github.com/MatiasJB95/libreriaLour)
-- [API en Java utilizando Spring Boot para un foro de discusión llamado "Foro Alura"](
-https://github.com/MatiasJB95/ForoAlura)
-- [Sistema de reservas para un hotel desarrollado en Java.](https://github.com/MatiasJB95/challenge-one-alura-hotel-latam)
-
-## 🔗 Enlaces Front-End
-- [Desafío de entrevista de trabajo de Greydive(React)](
-https://github.com/MatiasJB95/challengeGreydive)
-
-
-Estoy emocionado por la oportunidad de colaborar en proyectos interesantes y seguir aprendiendo en el campo del desarrollo Back-End. Si tienes alguna pregunta o oportunidad para mí, ¡no dudes en contactarme!
-
-¡Gracias por tu atención!
-
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasjb95/)
+
 
