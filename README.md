@@ -1,7 +1,7 @@
 # Matías Badano
 🚀 Backend Developer 
 
-specialized in Java (Spring Boot) and Node.js (NestJS), with experience in building APIs and systems focused on process automation.
+Specialized in Java (Spring Boot) and Node.js (NestJS), with experience in building APIs and systems focused on process automation.
 
 I have worked on developing real backend solutions such as automated mailing systems and CRM-like features for lead management and communication.
 
