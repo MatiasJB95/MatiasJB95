@@ -1,14 +1,14 @@
 # Matías Badano
-🚀 Desarrollador Java Back-End
+🚀 Backend Developer 
 
-Hola, soy Matías, un apasionado de la programación con enfoque en el desarrollo Back-End en Java. He adquirido sólidos conocimientos en el desarrollo de aplicaciones web y me considero una persona autodidacta y de rápido aprendizaje.
+specialized in Java (Spring Boot) and Node.js (NestJS), with experience in building APIs and systems focused on process automation.
 
-Actualmente curso la Tecnicatura Universitaria en Programación en la UTN y me desempeño como Full Stack Automation en No Country, donde continúo fortaleciendo mis habilidades técnicas y mi experiencia en proyectos colaborativos.
+I have worked on developing real backend solutions such as automated mailing systems and CRM-like features for lead management and communication.
 
-## 🛠 Habilidades Back-End
-- Java
-- Spring Boot
-- Golang
+I focus on building efficient and scalable solutions that improve internal workflows through automation and service integration.
+
+Currently, I am looking for opportunities as a Backend Developer where I can continue growing and contributing to impactful projects.
+
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiasjb95/)
